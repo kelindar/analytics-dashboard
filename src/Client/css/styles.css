@@ -1,0 +1,15 @@
+﻿
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+body{
+	background-color:#f7f8fa;
+	font-family: "Roboto Condensed";
+}
+
+.box{
+	padding: 0;
+}
+
+#tweetCounts{
+	width: 100%;
+}
