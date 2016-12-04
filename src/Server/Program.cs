@@ -27,6 +27,7 @@ namespace Server
                 Environment.GetEnvironmentVariable("ACCESS_TOKEN_SECRET")
                 );
 
+
             // The data we are going to measure
             var original = 0;
             var retweets = 0;
